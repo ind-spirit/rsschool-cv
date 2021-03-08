@@ -1,1 +1,1 @@
-https://ind-spirit.github.io/rsschool-cv/cv
+https://ind-spirit.github.io/rsschool-cv/
