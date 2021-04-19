@@ -22,5 +22,5 @@ I have an advanced English level, which was proven by EFSET test with an officia
 No commercial projects yet, but I do have pet projects, that you can check out at my github account.
 ### Contacts
 - [VKontakte](https://vk.com/indspirit)
-- tel: +79504219449
+
 
